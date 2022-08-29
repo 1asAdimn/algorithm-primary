@@ -30,6 +30,7 @@ public class Code03_BitAddMinusMultiDiv {
 			a <<= 1;
 			b >>>= 1;
 		}
+		System.out.println(111);
 		return res;
 	}
 
